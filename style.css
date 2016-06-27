@@ -5,9 +5,11 @@ h1
 }
 body{
 	background: red;
+	margin: 0 auto;
+	width: 80%;
 }
+
 p{
 	color: green;
-	size: 60px;
 	font-size: 60PX;
 }
